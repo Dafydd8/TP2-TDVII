@@ -10,5 +10,4 @@ for line in csv.DictReader(f_in):
     line['id_provincia'] = int(line['id_provincia'])
     personas.append(line)
 
-print(personas)
 json.dump(personas, f_out, ensure_ascii=False, indent=2)
