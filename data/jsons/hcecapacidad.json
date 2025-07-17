@@ -1,0 +1,754 @@
+[
+  {
+    "id_hce": 1,
+    "cod_capacidad": 15
+  },
+  {
+    "id_hce": 1,
+    "cod_capacidad": 6
+  },
+  {
+    "id_hce": 1,
+    "cod_capacidad": 2
+  },
+  {
+    "id_hce": 1,
+    "cod_capacidad": 8
+  },
+  {
+    "id_hce": 1,
+    "cod_capacidad": 3
+  },
+  {
+    "id_hce": 1,
+    "cod_capacidad": 13
+  },
+  {
+    "id_hce": 2,
+    "cod_capacidad": 12
+  },
+  {
+    "id_hce": 2,
+    "cod_capacidad": 14
+  },
+  {
+    "id_hce": 2,
+    "cod_capacidad": 7
+  },
+  {
+    "id_hce": 2,
+    "cod_capacidad": 3
+  },
+  {
+    "id_hce": 2,
+    "cod_capacidad": 9
+  },
+  {
+    "id_hce": 2,
+    "cod_capacidad": 6
+  },
+  {
+    "id_hce": 3,
+    "cod_capacidad": 4
+  },
+  {
+    "id_hce": 3,
+    "cod_capacidad": 6
+  },
+  {
+    "id_hce": 3,
+    "cod_capacidad": 11
+  },
+  {
+    "id_hce": 4,
+    "cod_capacidad": 6
+  },
+  {
+    "id_hce": 4,
+    "cod_capacidad": 11
+  },
+  {
+    "id_hce": 4,
+    "cod_capacidad": 14
+  },
+  {
+    "id_hce": 4,
+    "cod_capacidad": 10
+  },
+  {
+    "id_hce": 4,
+    "cod_capacidad": 5
+  },
+  {
+    "id_hce": 4,
+    "cod_capacidad": 1
+  },
+  {
+    "id_hce": 5,
+    "cod_capacidad": 1
+  },
+  {
+    "id_hce": 5,
+    "cod_capacidad": 8
+  },
+  {
+    "id_hce": 5,
+    "cod_capacidad": 12
+  },
+  {
+    "id_hce": 5,
+    "cod_capacidad": 5
+  },
+  {
+    "id_hce": 5,
+    "cod_capacidad": 14
+  },
+  {
+    "id_hce": 5,
+    "cod_capacidad": 7
+  },
+  {
+    "id_hce": 6,
+    "cod_capacidad": 8
+  },
+  {
+    "id_hce": 6,
+    "cod_capacidad": 10
+  },
+  {
+    "id_hce": 7,
+    "cod_capacidad": 5
+  },
+  {
+    "id_hce": 7,
+    "cod_capacidad": 12
+  },
+  {
+    "id_hce": 8,
+    "cod_capacidad": 3
+  },
+  {
+    "id_hce": 8,
+    "cod_capacidad": 5
+  },
+  {
+    "id_hce": 9,
+    "cod_capacidad": 2
+  },
+  {
+    "id_hce": 9,
+    "cod_capacidad": 8
+  },
+  {
+    "id_hce": 9,
+    "cod_capacidad": 10
+  },
+  {
+    "id_hce": 9,
+    "cod_capacidad": 5
+  },
+  {
+    "id_hce": 9,
+    "cod_capacidad": 13
+  },
+  {
+    "id_hce": 9,
+    "cod_capacidad": 14
+  },
+  {
+    "id_hce": 10,
+    "cod_capacidad": 12
+  },
+  {
+    "id_hce": 10,
+    "cod_capacidad": 2
+  },
+  {
+    "id_hce": 10,
+    "cod_capacidad": 9
+  },
+  {
+    "id_hce": 10,
+    "cod_capacidad": 10
+  },
+  {
+    "id_hce": 11,
+    "cod_capacidad": 9
+  },
+  {
+    "id_hce": 11,
+    "cod_capacidad": 2
+  },
+  {
+    "id_hce": 12,
+    "cod_capacidad": 1
+  },
+  {
+    "id_hce": 12,
+    "cod_capacidad": 14
+  },
+  {
+    "id_hce": 12,
+    "cod_capacidad": 12
+  },
+  {
+    "id_hce": 12,
+    "cod_capacidad": 2
+  },
+  {
+    "id_hce": 12,
+    "cod_capacidad": 11
+  },
+  {
+    "id_hce": 12,
+    "cod_capacidad": 10
+  },
+  {
+    "id_hce": 13,
+    "cod_capacidad": 4
+  },
+  {
+    "id_hce": 13,
+    "cod_capacidad": 6
+  },
+  {
+    "id_hce": 13,
+    "cod_capacidad": 9
+  },
+  {
+    "id_hce": 13,
+    "cod_capacidad": 8
+  },
+  {
+    "id_hce": 13,
+    "cod_capacidad": 15
+  },
+  {
+    "id_hce": 14,
+    "cod_capacidad": 1
+  },
+  {
+    "id_hce": 14,
+    "cod_capacidad": 13
+  },
+  {
+    "id_hce": 14,
+    "cod_capacidad": 4
+  },
+  {
+    "id_hce": 14,
+    "cod_capacidad": 11
+  },
+  {
+    "id_hce": 15,
+    "cod_capacidad": 9
+  },
+  {
+    "id_hce": 15,
+    "cod_capacidad": 6
+  },
+  {
+    "id_hce": 15,
+    "cod_capacidad": 2
+  },
+  {
+    "id_hce": 15,
+    "cod_capacidad": 14
+  },
+  {
+    "id_hce": 15,
+    "cod_capacidad": 11
+  },
+  {
+    "id_hce": 15,
+    "cod_capacidad": 1
+  },
+  {
+    "id_hce": 16,
+    "cod_capacidad": 12
+  },
+  {
+    "id_hce": 16,
+    "cod_capacidad": 2
+  },
+  {
+    "id_hce": 17,
+    "cod_capacidad": 14
+  },
+  {
+    "id_hce": 17,
+    "cod_capacidad": 5
+  },
+  {
+    "id_hce": 17,
+    "cod_capacidad": 13
+  },
+  {
+    "id_hce": 17,
+    "cod_capacidad": 15
+  },
+  {
+    "id_hce": 18,
+    "cod_capacidad": 14
+  },
+  {
+    "id_hce": 18,
+    "cod_capacidad": 15
+  },
+  {
+    "id_hce": 18,
+    "cod_capacidad": 2
+  },
+  {
+    "id_hce": 18,
+    "cod_capacidad": 4
+  },
+  {
+    "id_hce": 19,
+    "cod_capacidad": 14
+  },
+  {
+    "id_hce": 19,
+    "cod_capacidad": 10
+  },
+  {
+    "id_hce": 19,
+    "cod_capacidad": 5
+  },
+  {
+    "id_hce": 19,
+    "cod_capacidad": 1
+  },
+  {
+    "id_hce": 20,
+    "cod_capacidad": 9
+  },
+  {
+    "id_hce": 20,
+    "cod_capacidad": 10
+  },
+  {
+    "id_hce": 20,
+    "cod_capacidad": 2
+  },
+  {
+    "id_hce": 20,
+    "cod_capacidad": 8
+  },
+  {
+    "id_hce": 20,
+    "cod_capacidad": 13
+  },
+  {
+    "id_hce": 21,
+    "cod_capacidad": 11
+  },
+  {
+    "id_hce": 21,
+    "cod_capacidad": 2
+  },
+  {
+    "id_hce": 22,
+    "cod_capacidad": 14
+  },
+  {
+    "id_hce": 22,
+    "cod_capacidad": 7
+  },
+  {
+    "id_hce": 22,
+    "cod_capacidad": 11
+  },
+  {
+    "id_hce": 22,
+    "cod_capacidad": 3
+  },
+  {
+    "id_hce": 23,
+    "cod_capacidad": 1
+  },
+  {
+    "id_hce": 23,
+    "cod_capacidad": 10
+  },
+  {
+    "id_hce": 24,
+    "cod_capacidad": 3
+  },
+  {
+    "id_hce": 24,
+    "cod_capacidad": 7
+  },
+  {
+    "id_hce": 24,
+    "cod_capacidad": 11
+  },
+  {
+    "id_hce": 24,
+    "cod_capacidad": 8
+  },
+  {
+    "id_hce": 25,
+    "cod_capacidad": 15
+  },
+  {
+    "id_hce": 25,
+    "cod_capacidad": 12
+  },
+  {
+    "id_hce": 26,
+    "cod_capacidad": 6
+  },
+  {
+    "id_hce": 26,
+    "cod_capacidad": 4
+  },
+  {
+    "id_hce": 27,
+    "cod_capacidad": 14
+  },
+  {
+    "id_hce": 27,
+    "cod_capacidad": 8
+  },
+  {
+    "id_hce": 27,
+    "cod_capacidad": 10
+  },
+  {
+    "id_hce": 27,
+    "cod_capacidad": 5
+  },
+  {
+    "id_hce": 27,
+    "cod_capacidad": 4
+  },
+  {
+    "id_hce": 28,
+    "cod_capacidad": 3
+  },
+  {
+    "id_hce": 28,
+    "cod_capacidad": 1
+  },
+  {
+    "id_hce": 28,
+    "cod_capacidad": 14
+  },
+  {
+    "id_hce": 28,
+    "cod_capacidad": 2
+  },
+  {
+    "id_hce": 29,
+    "cod_capacidad": 12
+  },
+  {
+    "id_hce": 29,
+    "cod_capacidad": 6
+  },
+  {
+    "id_hce": 30,
+    "cod_capacidad": 6
+  },
+  {
+    "id_hce": 30,
+    "cod_capacidad": 2
+  },
+  {
+    "id_hce": 30,
+    "cod_capacidad": 15
+  },
+  {
+    "id_hce": 30,
+    "cod_capacidad": 11
+  },
+  {
+    "id_hce": 30,
+    "cod_capacidad": 3
+  },
+  {
+    "id_hce": 30,
+    "cod_capacidad": 8
+  },
+  {
+    "id_hce": 31,
+    "cod_capacidad": 5
+  },
+  {
+    "id_hce": 31,
+    "cod_capacidad": 14
+  },
+  {
+    "id_hce": 31,
+    "cod_capacidad": 12
+  },
+  {
+    "id_hce": 31,
+    "cod_capacidad": 3
+  },
+  {
+    "id_hce": 32,
+    "cod_capacidad": 7
+  },
+  {
+    "id_hce": 32,
+    "cod_capacidad": 11
+  },
+  {
+    "id_hce": 32,
+    "cod_capacidad": 2
+  },
+  {
+    "id_hce": 32,
+    "cod_capacidad": 8
+  },
+  {
+    "id_hce": 32,
+    "cod_capacidad": 10
+  },
+  {
+    "id_hce": 32,
+    "cod_capacidad": 6
+  },
+  {
+    "id_hce": 33,
+    "cod_capacidad": 14
+  },
+  {
+    "id_hce": 33,
+    "cod_capacidad": 9
+  },
+  {
+    "id_hce": 33,
+    "cod_capacidad": 1
+  },
+  {
+    "id_hce": 34,
+    "cod_capacidad": 12
+  },
+  {
+    "id_hce": 34,
+    "cod_capacidad": 15
+  },
+  {
+    "id_hce": 34,
+    "cod_capacidad": 8
+  },
+  {
+    "id_hce": 34,
+    "cod_capacidad": 4
+  },
+  {
+    "id_hce": 35,
+    "cod_capacidad": 9
+  },
+  {
+    "id_hce": 35,
+    "cod_capacidad": 12
+  },
+  {
+    "id_hce": 35,
+    "cod_capacidad": 7
+  },
+  {
+    "id_hce": 35,
+    "cod_capacidad": 11
+  },
+  {
+    "id_hce": 35,
+    "cod_capacidad": 15
+  },
+  {
+    "id_hce": 35,
+    "cod_capacidad": 10
+  },
+  {
+    "id_hce": 36,
+    "cod_capacidad": 9
+  },
+  {
+    "id_hce": 36,
+    "cod_capacidad": 1
+  },
+  {
+    "id_hce": 36,
+    "cod_capacidad": 6
+  },
+  {
+    "id_hce": 36,
+    "cod_capacidad": 2
+  },
+  {
+    "id_hce": 36,
+    "cod_capacidad": 8
+  },
+  {
+    "id_hce": 36,
+    "cod_capacidad": 3
+  },
+  {
+    "id_hce": 37,
+    "cod_capacidad": 8
+  },
+  {
+    "id_hce": 37,
+    "cod_capacidad": 12
+  },
+  {
+    "id_hce": 37,
+    "cod_capacidad": 6
+  },
+  {
+    "id_hce": 38,
+    "cod_capacidad": 6
+  },
+  {
+    "id_hce": 38,
+    "cod_capacidad": 2
+  },
+  {
+    "id_hce": 38,
+    "cod_capacidad": 13
+  },
+  {
+    "id_hce": 38,
+    "cod_capacidad": 12
+  },
+  {
+    "id_hce": 38,
+    "cod_capacidad": 10
+  },
+  {
+    "id_hce": 38,
+    "cod_capacidad": 1
+  },
+  {
+    "id_hce": 39,
+    "cod_capacidad": 3
+  },
+  {
+    "id_hce": 39,
+    "cod_capacidad": 11
+  },
+  {
+    "id_hce": 39,
+    "cod_capacidad": 5
+  },
+  {
+    "id_hce": 40,
+    "cod_capacidad": 3
+  },
+  {
+    "id_hce": 40,
+    "cod_capacidad": 13
+  },
+  {
+    "id_hce": 40,
+    "cod_capacidad": 4
+  },
+  {
+    "id_hce": 40,
+    "cod_capacidad": 14
+  },
+  {
+    "id_hce": 41,
+    "cod_capacidad": 10
+  },
+  {
+    "id_hce": 41,
+    "cod_capacidad": 3
+  },
+  {
+    "id_hce": 41,
+    "cod_capacidad": 8
+  },
+  {
+    "id_hce": 41,
+    "cod_capacidad": 13
+  },
+  {
+    "id_hce": 42,
+    "cod_capacidad": 3
+  },
+  {
+    "id_hce": 42,
+    "cod_capacidad": 13
+  },
+  {
+    "id_hce": 42,
+    "cod_capacidad": 2
+  },
+  {
+    "id_hce": 42,
+    "cod_capacidad": 8
+  },
+  {
+    "id_hce": 42,
+    "cod_capacidad": 5
+  },
+  {
+    "id_hce": 43,
+    "cod_capacidad": 7
+  },
+  {
+    "id_hce": 43,
+    "cod_capacidad": 8
+  },
+  {
+    "id_hce": 43,
+    "cod_capacidad": 1
+  },
+  {
+    "id_hce": 43,
+    "cod_capacidad": 14
+  },
+  {
+    "id_hce": 43,
+    "cod_capacidad": 2
+  },
+  {
+    "id_hce": 44,
+    "cod_capacidad": 15
+  },
+  {
+    "id_hce": 44,
+    "cod_capacidad": 4
+  },
+  {
+    "id_hce": 44,
+    "cod_capacidad": 12
+  },
+  {
+    "id_hce": 44,
+    "cod_capacidad": 3
+  },
+  {
+    "id_hce": 44,
+    "cod_capacidad": 2
+  },
+  {
+    "id_hce": 44,
+    "cod_capacidad": 10
+  },
+  {
+    "id_hce": 45,
+    "cod_capacidad": 8
+  },
+  {
+    "id_hce": 45,
+    "cod_capacidad": 15
+  },
+  {
+    "id_hce": 45,
+    "cod_capacidad": 12
+  },
+  {
+    "id_hce": 45,
+    "cod_capacidad": 10
+  },
+  {
+    "id_hce": 45,
+    "cod_capacidad": 4
+  }
+]
