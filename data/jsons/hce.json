@@ -1,0 +1,407 @@
+[
+  {
+    "id_hce": 1,
+    "nombre": "HCE Parra",
+    "id_prov": 1,
+    "tipo_gestion": "Provincial",
+    "tipo_desarrollo": "Licencia",
+    "gestion_estudios": "Gestiona",
+    "generacion_receta_digital": "No genera"
+  },
+  {
+    "id_hce": 2,
+    "nombre": "HCE Rosselló",
+    "id_prov": 1,
+    "tipo_gestion": "Proveedor",
+    "tipo_desarrollo": "Licencia",
+    "gestion_estudios": "No gestiona",
+    "generacion_receta_digital": "Genera"
+  },
+  {
+    "id_hce": 3,
+    "nombre": "HCE Pineda",
+    "id_prov": 1,
+    "tipo_gestion": "Provincial",
+    "tipo_desarrollo": "Propio",
+    "gestion_estudios": "No gestiona",
+    "generacion_receta_digital": "Genera"
+  },
+  {
+    "id_hce": 4,
+    "nombre": "HCE Ochoa",
+    "id_prov": 2,
+    "tipo_gestion": "Proveedor",
+    "tipo_desarrollo": "Propio",
+    "gestion_estudios": "No gestiona",
+    "generacion_receta_digital": "Genera"
+  },
+  {
+    "id_hce": 5,
+    "nombre": "HCE Blanco",
+    "id_prov": 3,
+    "tipo_gestion": "Provincial",
+    "tipo_desarrollo": "Propio",
+    "gestion_estudios": "Gestiona",
+    "generacion_receta_digital": "No genera"
+  },
+  {
+    "id_hce": 6,
+    "nombre": "HCE Carmona",
+    "id_prov": 3,
+    "tipo_gestion": "Proveedor",
+    "tipo_desarrollo": "Licencia",
+    "gestion_estudios": "Gestiona",
+    "generacion_receta_digital": "Genera"
+  },
+  {
+    "id_hce": 7,
+    "nombre": "HCE Plana",
+    "id_prov": 3,
+    "tipo_gestion": "Proveedor",
+    "tipo_desarrollo": "Propio",
+    "gestion_estudios": "Gestiona",
+    "generacion_receta_digital": "Genera"
+  },
+  {
+    "id_hce": 8,
+    "nombre": "HCE Moll",
+    "id_prov": 4,
+    "tipo_gestion": "Proveedor",
+    "tipo_desarrollo": "Propio",
+    "gestion_estudios": "No gestiona",
+    "generacion_receta_digital": "Genera"
+  },
+  {
+    "id_hce": 9,
+    "nombre": "HCE Nebot",
+    "id_prov": 5,
+    "tipo_gestion": "Provincial",
+    "tipo_desarrollo": "Licencia",
+    "gestion_estudios": "Gestiona",
+    "generacion_receta_digital": "Genera"
+  },
+  {
+    "id_hce": 10,
+    "nombre": "HCE Rubio",
+    "id_prov": 5,
+    "tipo_gestion": "Provincial",
+    "tipo_desarrollo": "Propio",
+    "gestion_estudios": "Gestiona",
+    "generacion_receta_digital": "Genera"
+  },
+  {
+    "id_hce": 11,
+    "nombre": "HCE Viña",
+    "id_prov": 6,
+    "tipo_gestion": "Provincial",
+    "tipo_desarrollo": "Licencia",
+    "gestion_estudios": "No gestiona",
+    "generacion_receta_digital": "Genera"
+  },
+  {
+    "id_hce": 12,
+    "nombre": "HCE Azorin",
+    "id_prov": 6,
+    "tipo_gestion": "Provincial",
+    "tipo_desarrollo": "Licencia",
+    "gestion_estudios": "No gestiona",
+    "generacion_receta_digital": "Genera"
+  },
+  {
+    "id_hce": 13,
+    "nombre": "HCE Royo",
+    "id_prov": 6,
+    "tipo_gestion": "Provincial",
+    "tipo_desarrollo": "Propio",
+    "gestion_estudios": "No gestiona",
+    "generacion_receta_digital": "No genera"
+  },
+  {
+    "id_hce": 14,
+    "nombre": "HCE Catalán",
+    "id_prov": 7,
+    "tipo_gestion": "Proveedor",
+    "tipo_desarrollo": "Licencia",
+    "gestion_estudios": "No gestiona",
+    "generacion_receta_digital": "No genera"
+  },
+  {
+    "id_hce": 15,
+    "nombre": "HCE Arana",
+    "id_prov": 7,
+    "tipo_gestion": "Provincial",
+    "tipo_desarrollo": "Licencia",
+    "gestion_estudios": "No gestiona",
+    "generacion_receta_digital": "No genera"
+  },
+  {
+    "id_hce": 16,
+    "nombre": "HCE Almeida",
+    "id_prov": 8,
+    "tipo_gestion": "Proveedor",
+    "tipo_desarrollo": "Licencia",
+    "gestion_estudios": "No gestiona",
+    "generacion_receta_digital": "No genera"
+  },
+  {
+    "id_hce": 17,
+    "nombre": "HCE Montesinos",
+    "id_prov": 9,
+    "tipo_gestion": "Proveedor",
+    "tipo_desarrollo": "Licencia",
+    "gestion_estudios": "No gestiona",
+    "generacion_receta_digital": "No genera"
+  },
+  {
+    "id_hce": 18,
+    "nombre": "HCE Castilla",
+    "id_prov": 9,
+    "tipo_gestion": "Proveedor",
+    "tipo_desarrollo": "Propio",
+    "gestion_estudios": "No gestiona",
+    "generacion_receta_digital": "Genera"
+  },
+  {
+    "id_hce": 19,
+    "nombre": "HCE Miró",
+    "id_prov": 10,
+    "tipo_gestion": "Provincial",
+    "tipo_desarrollo": "Propio",
+    "gestion_estudios": "Gestiona",
+    "generacion_receta_digital": "Genera"
+  },
+  {
+    "id_hce": 20,
+    "nombre": "HCE Sabater",
+    "id_prov": 10,
+    "tipo_gestion": "Provincial",
+    "tipo_desarrollo": "Propio",
+    "gestion_estudios": "No gestiona",
+    "generacion_receta_digital": "Genera"
+  },
+  {
+    "id_hce": 21,
+    "nombre": "HCE Rocamora",
+    "id_prov": 11,
+    "tipo_gestion": "Proveedor",
+    "tipo_desarrollo": "Licencia",
+    "gestion_estudios": "No gestiona",
+    "generacion_receta_digital": "No genera"
+  },
+  {
+    "id_hce": 22,
+    "nombre": "HCE Villena",
+    "id_prov": 12,
+    "tipo_gestion": "Provincial",
+    "tipo_desarrollo": "Propio",
+    "gestion_estudios": "No gestiona",
+    "generacion_receta_digital": "No genera"
+  },
+  {
+    "id_hce": 23,
+    "nombre": "HCE Plaza",
+    "id_prov": 12,
+    "tipo_gestion": "Proveedor",
+    "tipo_desarrollo": "Propio",
+    "gestion_estudios": "Gestiona",
+    "generacion_receta_digital": "Genera"
+  },
+  {
+    "id_hce": 24,
+    "nombre": "HCE Chaparro",
+    "id_prov": 13,
+    "tipo_gestion": "Proveedor",
+    "tipo_desarrollo": "Licencia",
+    "gestion_estudios": "Gestiona",
+    "generacion_receta_digital": "No genera"
+  },
+  {
+    "id_hce": 25,
+    "nombre": "HCE Azcona",
+    "id_prov": 13,
+    "tipo_gestion": "Provincial",
+    "tipo_desarrollo": "Propio",
+    "gestion_estudios": "No gestiona",
+    "generacion_receta_digital": "Genera"
+  },
+  {
+    "id_hce": 26,
+    "nombre": "HCE Alegria",
+    "id_prov": 13,
+    "tipo_gestion": "Provincial",
+    "tipo_desarrollo": "Licencia",
+    "gestion_estudios": "No gestiona",
+    "generacion_receta_digital": "No genera"
+  },
+  {
+    "id_hce": 27,
+    "nombre": "HCE Nicolás",
+    "id_prov": 14,
+    "tipo_gestion": "Provincial",
+    "tipo_desarrollo": "Licencia",
+    "gestion_estudios": "Gestiona",
+    "generacion_receta_digital": "No genera"
+  },
+  {
+    "id_hce": 28,
+    "nombre": "HCE Larrea",
+    "id_prov": 14,
+    "tipo_gestion": "Proveedor",
+    "tipo_desarrollo": "Licencia",
+    "gestion_estudios": "Gestiona",
+    "generacion_receta_digital": "Genera"
+  },
+  {
+    "id_hce": 29,
+    "nombre": "HCE Catalá",
+    "id_prov": 15,
+    "tipo_gestion": "Proveedor",
+    "tipo_desarrollo": "Licencia",
+    "gestion_estudios": "Gestiona",
+    "generacion_receta_digital": "Genera"
+  },
+  {
+    "id_hce": 30,
+    "nombre": "HCE Pinilla",
+    "id_prov": 16,
+    "tipo_gestion": "Provincial",
+    "tipo_desarrollo": "Licencia",
+    "gestion_estudios": "No gestiona",
+    "generacion_receta_digital": "Genera"
+  },
+  {
+    "id_hce": 31,
+    "nombre": "HCE Sebastián",
+    "id_prov": 16,
+    "tipo_gestion": "Proveedor",
+    "tipo_desarrollo": "Licencia",
+    "gestion_estudios": "Gestiona",
+    "generacion_receta_digital": "No genera"
+  },
+  {
+    "id_hce": 32,
+    "nombre": "HCE Pareja",
+    "id_prov": 16,
+    "tipo_gestion": "Provincial",
+    "tipo_desarrollo": "Propio",
+    "gestion_estudios": "Gestiona",
+    "generacion_receta_digital": "Genera"
+  },
+  {
+    "id_hce": 33,
+    "nombre": "HCE Montoya",
+    "id_prov": 17,
+    "tipo_gestion": "Proveedor",
+    "tipo_desarrollo": "Propio",
+    "gestion_estudios": "Gestiona",
+    "generacion_receta_digital": "Genera"
+  },
+  {
+    "id_hce": 34,
+    "nombre": "HCE Esparza",
+    "id_prov": 18,
+    "tipo_gestion": "Proveedor",
+    "tipo_desarrollo": "Propio",
+    "gestion_estudios": "No gestiona",
+    "generacion_receta_digital": "No genera"
+  },
+  {
+    "id_hce": 35,
+    "nombre": "HCE Morata",
+    "id_prov": 18,
+    "tipo_gestion": "Proveedor",
+    "tipo_desarrollo": "Propio",
+    "gestion_estudios": "Gestiona",
+    "generacion_receta_digital": "No genera"
+  },
+  {
+    "id_hce": 36,
+    "nombre": "HCE Vilar",
+    "id_prov": 18,
+    "tipo_gestion": "Proveedor",
+    "tipo_desarrollo": "Licencia",
+    "gestion_estudios": "Gestiona",
+    "generacion_receta_digital": "No genera"
+  },
+  {
+    "id_hce": 37,
+    "nombre": "HCE Alcázar",
+    "id_prov": 19,
+    "tipo_gestion": "Provincial",
+    "tipo_desarrollo": "Licencia",
+    "gestion_estudios": "Gestiona",
+    "generacion_receta_digital": "No genera"
+  },
+  {
+    "id_hce": 38,
+    "nombre": "HCE Falcó",
+    "id_prov": 20,
+    "tipo_gestion": "Provincial",
+    "tipo_desarrollo": "Propio",
+    "gestion_estudios": "No gestiona",
+    "generacion_receta_digital": "No genera"
+  },
+  {
+    "id_hce": 39,
+    "nombre": "HCE Jover",
+    "id_prov": 20,
+    "tipo_gestion": "Provincial",
+    "tipo_desarrollo": "Licencia",
+    "gestion_estudios": "Gestiona",
+    "generacion_receta_digital": "No genera"
+  },
+  {
+    "id_hce": 40,
+    "nombre": "HCE Cabezas",
+    "id_prov": 20,
+    "tipo_gestion": "Proveedor",
+    "tipo_desarrollo": "Propio",
+    "gestion_estudios": "No gestiona",
+    "generacion_receta_digital": "Genera"
+  },
+  {
+    "id_hce": 41,
+    "nombre": "HCE Blanca",
+    "id_prov": 21,
+    "tipo_gestion": "Proveedor",
+    "tipo_desarrollo": "Propio",
+    "gestion_estudios": "No gestiona",
+    "generacion_receta_digital": "Genera"
+  },
+  {
+    "id_hce": 42,
+    "nombre": "HCE Lobato",
+    "id_prov": 21,
+    "tipo_gestion": "Proveedor",
+    "tipo_desarrollo": "Propio",
+    "gestion_estudios": "No gestiona",
+    "generacion_receta_digital": "No genera"
+  },
+  {
+    "id_hce": 43,
+    "nombre": "HCE Casanovas",
+    "id_prov": 22,
+    "tipo_gestion": "Proveedor",
+    "tipo_desarrollo": "Propio",
+    "gestion_estudios": "Gestiona",
+    "generacion_receta_digital": "Genera"
+  },
+  {
+    "id_hce": 44,
+    "nombre": "HCE Ferrándiz",
+    "id_prov": 22,
+    "tipo_gestion": "Proveedor",
+    "tipo_desarrollo": "Licencia",
+    "gestion_estudios": "Gestiona",
+    "generacion_receta_digital": "No genera"
+  },
+  {
+    "id_hce": 45,
+    "nombre": "HCE Valbuena",
+    "id_prov": 23,
+    "tipo_gestion": "Provincial",
+    "tipo_desarrollo": "Licencia",
+    "gestion_estudios": "Gestiona",
+    "generacion_receta_digital": "Genera"
+  }
+]

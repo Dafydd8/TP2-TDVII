@@ -1,0 +1,392 @@
+[
+  {
+    "cod_refes": 1,
+    "nombre": "Centro Médico Roig",
+    "id_prov": 1,
+    "nivel": "Primer Nivel"
+  },
+  {
+    "cod_refes": 2,
+    "nombre": "Posta Sanitaria Casas",
+    "id_prov": 2,
+    "nivel": "Primer Nivel"
+  },
+  {
+    "cod_refes": 3,
+    "nombre": "Posta Sanitaria Trujillo",
+    "id_prov": 2,
+    "nivel": "Tercer Nivel"
+  },
+  {
+    "cod_refes": 4,
+    "nombre": "Posta Sanitaria Menendez",
+    "id_prov": 3,
+    "nivel": "Segundo Nivel"
+  },
+  {
+    "cod_refes": 5,
+    "nombre": "Hospital Benítez",
+    "id_prov": 3,
+    "nivel": "Segundo Nivel"
+  },
+  {
+    "cod_refes": 6,
+    "nombre": "Posta Sanitaria Llamas",
+    "id_prov": 3,
+    "nivel": "Segundo Nivel"
+  },
+  {
+    "cod_refes": 7,
+    "nombre": "Hospital Izquierdo",
+    "id_prov": 4,
+    "nivel": "Segundo Nivel"
+  },
+  {
+    "cod_refes": 8,
+    "nombre": "Posta Sanitaria Cases",
+    "id_prov": 4,
+    "nivel": "Tercer Nivel"
+  },
+  {
+    "cod_refes": 9,
+    "nombre": "Posta Sanitaria Cruz",
+    "id_prov": 1,
+    "nivel": "Tercer Nivel"
+  },
+  {
+    "cod_refes": 10,
+    "nombre": "Instituto Valbuena",
+    "id_prov": 4,
+    "nivel": "Primer Nivel"
+  },
+  {
+    "cod_refes": 11,
+    "nombre": "Hospital Priego",
+    "id_prov": 5,
+    "nivel": "Primer Nivel"
+  },
+  {
+    "cod_refes": 12,
+    "nombre": "Instituto Falcó",
+    "id_prov": 6,
+    "nivel": "Segundo Nivel"
+  },
+  {
+    "cod_refes": 13,
+    "nombre": "Posta Sanitaria Palacio",
+    "id_prov": 6,
+    "nivel": "Segundo Nivel"
+  },
+  {
+    "cod_refes": 14,
+    "nombre": "Hospital Cuevas",
+    "id_prov": 7,
+    "nivel": "Tercer Nivel"
+  },
+  {
+    "cod_refes": 15,
+    "nombre": "Centro Médico Mayol",
+    "id_prov": 1,
+    "nivel": "Tercer Nivel"
+  },
+  {
+    "cod_refes": 16,
+    "nombre": "Hospital Santos",
+    "id_prov": 7,
+    "nivel": "Segundo Nivel"
+  },
+  {
+    "cod_refes": 17,
+    "nombre": "Posta Sanitaria Tur",
+    "id_prov": 7,
+    "nivel": "Segundo Nivel"
+  },
+  {
+    "cod_refes": 18,
+    "nombre": "Unidad Sanitaria Lloret",
+    "id_prov": 7,
+    "nivel": "Tercer Nivel"
+  },
+  {
+    "cod_refes": 19,
+    "nombre": "Centro Médico Nogués",
+    "id_prov": 8,
+    "nivel": "Segundo Nivel"
+  },
+  {
+    "cod_refes": 20,
+    "nombre": "Centro Médico Calvet",
+    "id_prov": 8,
+    "nivel": "Segundo Nivel"
+  },
+  {
+    "cod_refes": 21,
+    "nombre": "Instituto Paz",
+    "id_prov": 8,
+    "nivel": "Segundo Nivel"
+  },
+  {
+    "cod_refes": 22,
+    "nombre": "Hospital Bayón",
+    "id_prov": 1,
+    "nivel": "Primer Nivel"
+  },
+  {
+    "cod_refes": 23,
+    "nombre": "Clínica Palacio",
+    "id_prov": 8,
+    "nivel": "Tercer Nivel"
+  },
+  {
+    "cod_refes": 24,
+    "nombre": "Unidad Sanitaria Reyes",
+    "id_prov": 9,
+    "nivel": "Segundo Nivel"
+  },
+  {
+    "cod_refes": 25,
+    "nombre": "Clínica Solsona",
+    "id_prov": 9,
+    "nivel": "Primer Nivel"
+  },
+  {
+    "cod_refes": 26,
+    "nombre": "Hospital Valbuena",
+    "id_prov": 9,
+    "nivel": "Tercer Nivel"
+  },
+  {
+    "cod_refes": 27,
+    "nombre": "Centro Médico Narváez",
+    "id_prov": 10,
+    "nivel": "Primer Nivel"
+  },
+  {
+    "cod_refes": 28,
+    "nombre": "Unidad Sanitaria Barceló",
+    "id_prov": 10,
+    "nivel": "Tercer Nivel"
+  },
+  {
+    "cod_refes": 29,
+    "nombre": "Centro Médico Pedrero",
+    "id_prov": 2,
+    "nivel": "Segundo Nivel"
+  },
+  {
+    "cod_refes": 30,
+    "nombre": "Unidad Sanitaria Ramos",
+    "id_prov": 10,
+    "nivel": "Tercer Nivel"
+  },
+  {
+    "cod_refes": 31,
+    "nombre": "Centro Médico Belda",
+    "id_prov": 11,
+    "nivel": "Primer Nivel"
+  },
+  {
+    "cod_refes": 32,
+    "nombre": "Clínica Tejero",
+    "id_prov": 11,
+    "nivel": "Primer Nivel"
+  },
+  {
+    "cod_refes": 33,
+    "nombre": "Instituto Mendez",
+    "id_prov": 11,
+    "nivel": "Primer Nivel"
+  },
+  {
+    "cod_refes": 34,
+    "nombre": "Centro Médico Pinto",
+    "id_prov": 12,
+    "nivel": "Segundo Nivel"
+  },
+  {
+    "cod_refes": 35,
+    "nombre": "Centro Médico Mayoral",
+    "id_prov": 12,
+    "nivel": "Tercer Nivel"
+  },
+  {
+    "cod_refes": 36,
+    "nombre": "Centro Médico Abellán",
+    "id_prov": 13,
+    "nivel": "Segundo Nivel"
+  },
+  {
+    "cod_refes": 37,
+    "nombre": "Centro Médico Roma",
+    "id_prov": 13,
+    "nivel": "Segundo Nivel"
+  },
+  {
+    "cod_refes": 38,
+    "nombre": "Centro Médico Ocaña",
+    "id_prov": 14,
+    "nivel": "Tercer Nivel"
+  },
+  {
+    "cod_refes": 39,
+    "nombre": "Unidad Sanitaria Luís",
+    "id_prov": 15,
+    "nivel": "Tercer Nivel"
+  },
+  {
+    "cod_refes": 40,
+    "nombre": "Centro Médico Pizarro",
+    "id_prov": 15,
+    "nivel": "Tercer Nivel"
+  },
+  {
+    "cod_refes": 41,
+    "nombre": "Centro Médico Arce",
+    "id_prov": 15,
+    "nivel": "Tercer Nivel"
+  },
+  {
+    "cod_refes": 42,
+    "nombre": "Unidad Sanitaria Ortiz",
+    "id_prov": 16,
+    "nivel": "Tercer Nivel"
+  },
+  {
+    "cod_refes": 43,
+    "nombre": "Unidad Sanitaria Jara",
+    "id_prov": 16,
+    "nivel": "Primer Nivel"
+  },
+  {
+    "cod_refes": 44,
+    "nombre": "Instituto Alcaraz",
+    "id_prov": 16,
+    "nivel": "Primer Nivel"
+  },
+  {
+    "cod_refes": 45,
+    "nombre": "Centro Médico Pujadas",
+    "id_prov": 16,
+    "nivel": "Primer Nivel"
+  },
+  {
+    "cod_refes": 46,
+    "nombre": "Hospital Cisneros",
+    "id_prov": 17,
+    "nivel": "Tercer Nivel"
+  },
+  {
+    "cod_refes": 47,
+    "nombre": "Instituto Raya",
+    "id_prov": 17,
+    "nivel": "Primer Nivel"
+  },
+  {
+    "cod_refes": 48,
+    "nombre": "Hospital Tejero",
+    "id_prov": 17,
+    "nivel": "Primer Nivel"
+  },
+  {
+    "cod_refes": 49,
+    "nombre": "Clínica Aragón",
+    "id_prov": 17,
+    "nivel": "Tercer Nivel"
+  },
+  {
+    "cod_refes": 50,
+    "nombre": "Hospital Sáenz",
+    "id_prov": 17,
+    "nivel": "Tercer Nivel"
+  },
+  {
+    "cod_refes": 51,
+    "nombre": "Posta Sanitaria Higueras",
+    "id_prov": 18,
+    "nivel": "Primer Nivel"
+  },
+  {
+    "cod_refes": 52,
+    "nombre": "Instituto Maldonado",
+    "id_prov": 19,
+    "nivel": "Tercer Nivel"
+  },
+  {
+    "cod_refes": 53,
+    "nombre": "Posta Sanitaria Alemán",
+    "id_prov": 20,
+    "nivel": "Segundo Nivel"
+  },
+  {
+    "cod_refes": 54,
+    "nombre": "Clínica Carrasco",
+    "id_prov": 20,
+    "nivel": "Tercer Nivel"
+  },
+  {
+    "cod_refes": 55,
+    "nombre": "Instituto Pino",
+    "id_prov": 20,
+    "nivel": "Segundo Nivel"
+  },
+  {
+    "cod_refes": 56,
+    "nombre": "Hospital Campos",
+    "id_prov": 20,
+    "nivel": "Primer Nivel"
+  },
+  {
+    "cod_refes": 57,
+    "nombre": "Posta Sanitaria Barrera",
+    "id_prov": 21,
+    "nivel": "Primer Nivel"
+  },
+  {
+    "cod_refes": 58,
+    "nombre": "Hospital Pallarès",
+    "id_prov": 21,
+    "nivel": "Segundo Nivel"
+  },
+  {
+    "cod_refes": 59,
+    "nombre": "Unidad Sanitaria Carreras",
+    "id_prov": 21,
+    "nivel": "Primer Nivel"
+  },
+  {
+    "cod_refes": 60,
+    "nombre": "Clínica Valderrama",
+    "id_prov": 21,
+    "nivel": "Segundo Nivel"
+  },
+  {
+    "cod_refes": 61,
+    "nombre": "Instituto Vargas",
+    "id_prov": 21,
+    "nivel": "Tercer Nivel"
+  },
+  {
+    "cod_refes": 62,
+    "nombre": "Instituto Pedrero",
+    "id_prov": 22,
+    "nivel": "Segundo Nivel"
+  },
+  {
+    "cod_refes": 63,
+    "nombre": "Instituto Sanabria",
+    "id_prov": 23,
+    "nivel": "Primer Nivel"
+  },
+  {
+    "cod_refes": 64,
+    "nombre": "Unidad Sanitaria Navarro",
+    "id_prov": 23,
+    "nivel": "Segundo Nivel"
+  },
+  {
+    "cod_refes": 65,
+    "nombre": "Unidad Sanitaria Arnau",
+    "id_prov": 24,
+    "nivel": "Primer Nivel"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id_prov": 1,
+    "nombre": "Buenos Aires",
+    "poblacion_total": 17523996
+  },
+  {
+    "id_prov": 2,
+    "nombre": "CABA",
+    "poblacion_total": 3121707
+  },
+  {
+    "id_prov": 3,
+    "nombre": "Córdoba",
+    "poblacion_total": 3840905
+  },
+  {
+    "id_prov": 4,
+    "nombre": "Santa Fe",
+    "poblacion_total": 3544908
+  },
+  {
+    "id_prov": 5,
+    "nombre": "Mendoza",
+    "poblacion_total": 2014533
+  },
+  {
+    "id_prov": 6,
+    "nombre": "Tucumán",
+    "poblacion_total": 1703186
+  },
+  {
+    "id_prov": 7,
+    "nombre": "Salta",
+    "poblacion_total": 1440672
+  },
+  {
+    "id_prov": 8,
+    "nombre": "Entre Ríos",
+    "poblacion_total": 1385961
+  },
+  {
+    "id_prov": 9,
+    "nombre": "Corrientes",
+    "poblacion_total": 1120801
+  },
+  {
+    "id_prov": 10,
+    "nombre": "Santiago del Estero",
+    "poblacion_total": 1054028
+  },
+  {
+    "id_prov": 11,
+    "nombre": "Misiones",
+    "poblacion_total": 1280960
+  },
+  {
+    "id_prov": 12,
+    "nombre": "Neuquén",
+    "poblacion_total": 726590
+  },
+  {
+    "id_prov": 13,
+    "nombre": "Río Negro",
+    "poblacion_total": 762067
+  },
+  {
+    "id_prov": 14,
+    "nombre": "San Juan",
+    "poblacion_total": 818234
+  },
+  {
+    "id_prov": 15,
+    "nombre": "San Luis",
+    "poblacion_total": 540905
+  },
+  {
+    "id_prov": 16,
+    "nombre": "Formosa",
+    "poblacion_total": 559174
+  },
+  {
+    "id_prov": 17,
+    "nombre": "Jujuy",
+    "poblacion_total": 797955
+  },
+  {
+    "id_prov": 18,
+    "nombre": "La Rioja",
+    "poblacion_total": 384607
+  },
+  {
+    "id_prov": 19,
+    "nombre": "Catamarca",
+    "poblacion_total": 429556
+  },
+  {
+    "id_prov": 20,
+    "nombre": "Chaco",
+    "poblacion_total": 1204541
+  },
+  {
+    "id_prov": 21,
+    "nombre": "Chubut",
+    "poblacion_total": 618994
+  },
+  {
+    "id_prov": 22,
+    "nombre": "La Pampa",
+    "poblacion_total": 361859
+  },
+  {
+    "id_prov": 23,
+    "nombre": "Santa Cruz",
+    "poblacion_total": 337226
+  },
+  {
+    "id_prov": 24,
+    "nombre": "Tierra del Fuego",
+    "poblacion_total": 185732
+  }
+]
