@@ -1,0 +1,77 @@
+[
+  {
+    "cod_capacidad": 1,
+    "nombre": "Generación de Recetas Electrónicas",
+    "descripcion": "Permite emitir recetas digitales directamente desde la HCE."
+  },
+  {
+    "cod_capacidad": 2,
+    "nombre": "Generación de Prescripciones",
+    "descripcion": "Permite generar prescripciones de tratamientos o medicamentos."
+  },
+  {
+    "cod_capacidad": 3,
+    "nombre": "Portal del Paciente Vinculado",
+    "descripcion": "Ofrece acceso al paciente a través de un portal online."
+  },
+  {
+    "cod_capacidad": 4,
+    "nombre": "Uso de Terminología SNOMED CT",
+    "descripcion": "Utiliza la codificación estandarizada SNOMED CT."
+  },
+  {
+    "cod_capacidad": 5,
+    "nombre": "Interoperabilidad con Farmacias",
+    "descripcion": "Las recetas digitales pueden ser utilizadas en farmacias."
+  },
+  {
+    "cod_capacidad": 6,
+    "nombre": "Firma Digital Integrada",
+    "descripcion": "Permite firmar digitalmente documentos médicos."
+  },
+  {
+    "cod_capacidad": 7,
+    "nombre": "Interoperabilidad con Prepagas",
+    "descripcion": "La HCE se conecta con sistemas de medicina prepaga."
+  },
+  {
+    "cod_capacidad": 8,
+    "nombre": "Interoperabilidad con Obras Sociales",
+    "descripcion": "Conecta con obras sociales para validación de cobertura."
+  },
+  {
+    "cod_capacidad": 9,
+    "nombre": "Consulta de Antecedentes Médicos",
+    "descripcion": "Permite revisar antecedentes clínicos del paciente."
+  },
+  {
+    "cod_capacidad": 10,
+    "nombre": "Integración con Laboratorios",
+    "descripcion": "Conecta con laboratorios para ver resultados automáticamente."
+  },
+  {
+    "cod_capacidad": 11,
+    "nombre": "Acceso Multidispositivo (Web/Móvil)",
+    "descripcion": "La HCE está disponible tanto en computadoras como en móviles."
+  },
+  {
+    "cod_capacidad": 12,
+    "nombre": "Registro de Vacunación",
+    "descripcion": "Permite registrar y consultar vacunas aplicadas."
+  },
+  {
+    "cod_capacidad": 13,
+    "nombre": "Gestión de Turnos",
+    "descripcion": "Permite solicitar y administrar turnos médicos."
+  },
+  {
+    "cod_capacidad": 14,
+    "nombre": "Interfaz Profesional",
+    "descripcion": "Dispone de una interfaz específica para profesionales de salud."
+  },
+  {
+    "cod_capacidad": 15,
+    "nombre": "Visualización de Imágenes Médicas",
+    "descripcion": "Permite ver radiografías, resonancias y otros estudios desde la HCE."
+  }
+]

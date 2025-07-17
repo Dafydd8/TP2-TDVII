@@ -1,0 +1,818 @@
+[
+  {
+    "cod_refes": 1,
+    "cod_servicio": 30
+  },
+  {
+    "cod_refes": 1,
+    "cod_servicio": 19
+  },
+  {
+    "cod_refes": 1,
+    "cod_servicio": 2
+  },
+  {
+    "cod_refes": 1,
+    "cod_servicio": 10
+  },
+  {
+    "cod_refes": 2,
+    "cod_servicio": 24
+  },
+  {
+    "cod_refes": 2,
+    "cod_servicio": 16
+  },
+  {
+    "cod_refes": 3,
+    "cod_servicio": 34
+  },
+  {
+    "cod_refes": 3,
+    "cod_servicio": 13
+  },
+  {
+    "cod_refes": 3,
+    "cod_servicio": 19
+  },
+  {
+    "cod_refes": 4,
+    "cod_servicio": 15
+  },
+  {
+    "cod_refes": 5,
+    "cod_servicio": 32
+  },
+  {
+    "cod_refes": 5,
+    "cod_servicio": 37
+  },
+  {
+    "cod_refes": 6,
+    "cod_servicio": 6
+  },
+  {
+    "cod_refes": 6,
+    "cod_servicio": 25
+  },
+  {
+    "cod_refes": 6,
+    "cod_servicio": 20
+  },
+  {
+    "cod_refes": 6,
+    "cod_servicio": 27
+  },
+  {
+    "cod_refes": 6,
+    "cod_servicio": 31
+  },
+  {
+    "cod_refes": 7,
+    "cod_servicio": 31
+  },
+  {
+    "cod_refes": 7,
+    "cod_servicio": 20
+  },
+  {
+    "cod_refes": 8,
+    "cod_servicio": 22
+  },
+  {
+    "cod_refes": 8,
+    "cod_servicio": 2
+  },
+  {
+    "cod_refes": 8,
+    "cod_servicio": 13
+  },
+  {
+    "cod_refes": 8,
+    "cod_servicio": 28
+  },
+  {
+    "cod_refes": 8,
+    "cod_servicio": 37
+  },
+  {
+    "cod_refes": 9,
+    "cod_servicio": 27
+  },
+  {
+    "cod_refes": 9,
+    "cod_servicio": 30
+  },
+  {
+    "cod_refes": 9,
+    "cod_servicio": 3
+  },
+  {
+    "cod_refes": 10,
+    "cod_servicio": 17
+  },
+  {
+    "cod_refes": 10,
+    "cod_servicio": 21
+  },
+  {
+    "cod_refes": 10,
+    "cod_servicio": 24
+  },
+  {
+    "cod_refes": 10,
+    "cod_servicio": 16
+  },
+  {
+    "cod_refes": 11,
+    "cod_servicio": 9
+  },
+  {
+    "cod_refes": 11,
+    "cod_servicio": 3
+  },
+  {
+    "cod_refes": 11,
+    "cod_servicio": 20
+  },
+  {
+    "cod_refes": 11,
+    "cod_servicio": 34
+  },
+  {
+    "cod_refes": 11,
+    "cod_servicio": 13
+  },
+  {
+    "cod_refes": 12,
+    "cod_servicio": 28
+  },
+  {
+    "cod_refes": 12,
+    "cod_servicio": 24
+  },
+  {
+    "cod_refes": 12,
+    "cod_servicio": 8
+  },
+  {
+    "cod_refes": 13,
+    "cod_servicio": 5
+  },
+  {
+    "cod_refes": 13,
+    "cod_servicio": 29
+  },
+  {
+    "cod_refes": 13,
+    "cod_servicio": 34
+  },
+  {
+    "cod_refes": 13,
+    "cod_servicio": 30
+  },
+  {
+    "cod_refes": 14,
+    "cod_servicio": 12
+  },
+  {
+    "cod_refes": 14,
+    "cod_servicio": 36
+  },
+  {
+    "cod_refes": 14,
+    "cod_servicio": 33
+  },
+  {
+    "cod_refes": 14,
+    "cod_servicio": 24
+  },
+  {
+    "cod_refes": 14,
+    "cod_servicio": 28
+  },
+  {
+    "cod_refes": 15,
+    "cod_servicio": 24
+  },
+  {
+    "cod_refes": 15,
+    "cod_servicio": 10
+  },
+  {
+    "cod_refes": 15,
+    "cod_servicio": 16
+  },
+  {
+    "cod_refes": 15,
+    "cod_servicio": 28
+  },
+  {
+    "cod_refes": 15,
+    "cod_servicio": 36
+  },
+  {
+    "cod_refes": 16,
+    "cod_servicio": 12
+  },
+  {
+    "cod_refes": 16,
+    "cod_servicio": 28
+  },
+  {
+    "cod_refes": 17,
+    "cod_servicio": 25
+  },
+  {
+    "cod_refes": 17,
+    "cod_servicio": 27
+  },
+  {
+    "cod_refes": 17,
+    "cod_servicio": 10
+  },
+  {
+    "cod_refes": 18,
+    "cod_servicio": 31
+  },
+  {
+    "cod_refes": 18,
+    "cod_servicio": 13
+  },
+  {
+    "cod_refes": 19,
+    "cod_servicio": 15
+  },
+  {
+    "cod_refes": 19,
+    "cod_servicio": 36
+  },
+  {
+    "cod_refes": 20,
+    "cod_servicio": 3
+  },
+  {
+    "cod_refes": 20,
+    "cod_servicio": 11
+  },
+  {
+    "cod_refes": 20,
+    "cod_servicio": 34
+  },
+  {
+    "cod_refes": 21,
+    "cod_servicio": 26
+  },
+  {
+    "cod_refes": 21,
+    "cod_servicio": 6
+  },
+  {
+    "cod_refes": 22,
+    "cod_servicio": 22
+  },
+  {
+    "cod_refes": 22,
+    "cod_servicio": 37
+  },
+  {
+    "cod_refes": 22,
+    "cod_servicio": 34
+  },
+  {
+    "cod_refes": 23,
+    "cod_servicio": 20
+  },
+  {
+    "cod_refes": 23,
+    "cod_servicio": 31
+  },
+  {
+    "cod_refes": 23,
+    "cod_servicio": 2
+  },
+  {
+    "cod_refes": 23,
+    "cod_servicio": 22
+  },
+  {
+    "cod_refes": 24,
+    "cod_servicio": 13
+  },
+  {
+    "cod_refes": 24,
+    "cod_servicio": 4
+  },
+  {
+    "cod_refes": 25,
+    "cod_servicio": 6
+  },
+  {
+    "cod_refes": 25,
+    "cod_servicio": 1
+  },
+  {
+    "cod_refes": 26,
+    "cod_servicio": 23
+  },
+  {
+    "cod_refes": 26,
+    "cod_servicio": 36
+  },
+  {
+    "cod_refes": 26,
+    "cod_servicio": 1
+  },
+  {
+    "cod_refes": 26,
+    "cod_servicio": 12
+  },
+  {
+    "cod_refes": 27,
+    "cod_servicio": 31
+  },
+  {
+    "cod_refes": 27,
+    "cod_servicio": 7
+  },
+  {
+    "cod_refes": 27,
+    "cod_servicio": 22
+  },
+  {
+    "cod_refes": 27,
+    "cod_servicio": 34
+  },
+  {
+    "cod_refes": 28,
+    "cod_servicio": 21
+  },
+  {
+    "cod_refes": 28,
+    "cod_servicio": 28
+  },
+  {
+    "cod_refes": 28,
+    "cod_servicio": 7
+  },
+  {
+    "cod_refes": 28,
+    "cod_servicio": 33
+  },
+  {
+    "cod_refes": 28,
+    "cod_servicio": 9
+  },
+  {
+    "cod_refes": 29,
+    "cod_servicio": 14
+  },
+  {
+    "cod_refes": 29,
+    "cod_servicio": 19
+  },
+  {
+    "cod_refes": 30,
+    "cod_servicio": 21
+  },
+  {
+    "cod_refes": 30,
+    "cod_servicio": 7
+  },
+  {
+    "cod_refes": 30,
+    "cod_servicio": 6
+  },
+  {
+    "cod_refes": 30,
+    "cod_servicio": 10
+  },
+  {
+    "cod_refes": 30,
+    "cod_servicio": 23
+  },
+  {
+    "cod_refes": 31,
+    "cod_servicio": 25
+  },
+  {
+    "cod_refes": 31,
+    "cod_servicio": 2
+  },
+  {
+    "cod_refes": 32,
+    "cod_servicio": 12
+  },
+  {
+    "cod_refes": 32,
+    "cod_servicio": 14
+  },
+  {
+    "cod_refes": 32,
+    "cod_servicio": 20
+  },
+  {
+    "cod_refes": 32,
+    "cod_servicio": 2
+  },
+  {
+    "cod_refes": 32,
+    "cod_servicio": 19
+  },
+  {
+    "cod_refes": 33,
+    "cod_servicio": 35
+  },
+  {
+    "cod_refes": 33,
+    "cod_servicio": 25
+  },
+  {
+    "cod_refes": 33,
+    "cod_servicio": 28
+  },
+  {
+    "cod_refes": 33,
+    "cod_servicio": 13
+  },
+  {
+    "cod_refes": 34,
+    "cod_servicio": 34
+  },
+  {
+    "cod_refes": 34,
+    "cod_servicio": 13
+  },
+  {
+    "cod_refes": 34,
+    "cod_servicio": 16
+  },
+  {
+    "cod_refes": 35,
+    "cod_servicio": 23
+  },
+  {
+    "cod_refes": 35,
+    "cod_servicio": 14
+  },
+  {
+    "cod_refes": 35,
+    "cod_servicio": 16
+  },
+  {
+    "cod_refes": 35,
+    "cod_servicio": 18
+  },
+  {
+    "cod_refes": 35,
+    "cod_servicio": 26
+  },
+  {
+    "cod_refes": 36,
+    "cod_servicio": 7
+  },
+  {
+    "cod_refes": 36,
+    "cod_servicio": 24
+  },
+  {
+    "cod_refes": 36,
+    "cod_servicio": 33
+  },
+  {
+    "cod_refes": 36,
+    "cod_servicio": 3
+  },
+  {
+    "cod_refes": 37,
+    "cod_servicio": 18
+  },
+  {
+    "cod_refes": 37,
+    "cod_servicio": 12
+  },
+  {
+    "cod_refes": 38,
+    "cod_servicio": 2
+  },
+  {
+    "cod_refes": 38,
+    "cod_servicio": 17
+  },
+  {
+    "cod_refes": 38,
+    "cod_servicio": 34
+  },
+  {
+    "cod_refes": 38,
+    "cod_servicio": 8
+  },
+  {
+    "cod_refes": 39,
+    "cod_servicio": 19
+  },
+  {
+    "cod_refes": 39,
+    "cod_servicio": 20
+  },
+  {
+    "cod_refes": 39,
+    "cod_servicio": 36
+  },
+  {
+    "cod_refes": 39,
+    "cod_servicio": 31
+  },
+  {
+    "cod_refes": 40,
+    "cod_servicio": 16
+  },
+  {
+    "cod_refes": 40,
+    "cod_servicio": 36
+  },
+  {
+    "cod_refes": 40,
+    "cod_servicio": 12
+  },
+  {
+    "cod_refes": 41,
+    "cod_servicio": 26
+  },
+  {
+    "cod_refes": 42,
+    "cod_servicio": 4
+  },
+  {
+    "cod_refes": 43,
+    "cod_servicio": 32
+  },
+  {
+    "cod_refes": 44,
+    "cod_servicio": 20
+  },
+  {
+    "cod_refes": 45,
+    "cod_servicio": 37
+  },
+  {
+    "cod_refes": 45,
+    "cod_servicio": 35
+  },
+  {
+    "cod_refes": 45,
+    "cod_servicio": 2
+  },
+  {
+    "cod_refes": 46,
+    "cod_servicio": 37
+  },
+  {
+    "cod_refes": 46,
+    "cod_servicio": 20
+  },
+  {
+    "cod_refes": 46,
+    "cod_servicio": 2
+  },
+  {
+    "cod_refes": 47,
+    "cod_servicio": 15
+  },
+  {
+    "cod_refes": 47,
+    "cod_servicio": 8
+  },
+  {
+    "cod_refes": 48,
+    "cod_servicio": 30
+  },
+  {
+    "cod_refes": 48,
+    "cod_servicio": 28
+  },
+  {
+    "cod_refes": 48,
+    "cod_servicio": 4
+  },
+  {
+    "cod_refes": 48,
+    "cod_servicio": 36
+  },
+  {
+    "cod_refes": 49,
+    "cod_servicio": 5
+  },
+  {
+    "cod_refes": 49,
+    "cod_servicio": 18
+  },
+  {
+    "cod_refes": 49,
+    "cod_servicio": 14
+  },
+  {
+    "cod_refes": 50,
+    "cod_servicio": 17
+  },
+  {
+    "cod_refes": 51,
+    "cod_servicio": 18
+  },
+  {
+    "cod_refes": 51,
+    "cod_servicio": 6
+  },
+  {
+    "cod_refes": 52,
+    "cod_servicio": 16
+  },
+  {
+    "cod_refes": 52,
+    "cod_servicio": 23
+  },
+  {
+    "cod_refes": 52,
+    "cod_servicio": 4
+  },
+  {
+    "cod_refes": 52,
+    "cod_servicio": 18
+  },
+  {
+    "cod_refes": 52,
+    "cod_servicio": 12
+  },
+  {
+    "cod_refes": 53,
+    "cod_servicio": 29
+  },
+  {
+    "cod_refes": 53,
+    "cod_servicio": 11
+  },
+  {
+    "cod_refes": 53,
+    "cod_servicio": 5
+  },
+  {
+    "cod_refes": 53,
+    "cod_servicio": 26
+  },
+  {
+    "cod_refes": 53,
+    "cod_servicio": 8
+  },
+  {
+    "cod_refes": 54,
+    "cod_servicio": 27
+  },
+  {
+    "cod_refes": 55,
+    "cod_servicio": 35
+  },
+  {
+    "cod_refes": 55,
+    "cod_servicio": 3
+  },
+  {
+    "cod_refes": 55,
+    "cod_servicio": 26
+  },
+  {
+    "cod_refes": 55,
+    "cod_servicio": 15
+  },
+  {
+    "cod_refes": 56,
+    "cod_servicio": 24
+  },
+  {
+    "cod_refes": 56,
+    "cod_servicio": 36
+  },
+  {
+    "cod_refes": 56,
+    "cod_servicio": 32
+  },
+  {
+    "cod_refes": 56,
+    "cod_servicio": 7
+  },
+  {
+    "cod_refes": 57,
+    "cod_servicio": 34
+  },
+  {
+    "cod_refes": 57,
+    "cod_servicio": 11
+  },
+  {
+    "cod_refes": 57,
+    "cod_servicio": 35
+  },
+  {
+    "cod_refes": 57,
+    "cod_servicio": 14
+  },
+  {
+    "cod_refes": 58,
+    "cod_servicio": 2
+  },
+  {
+    "cod_refes": 59,
+    "cod_servicio": 27
+  },
+  {
+    "cod_refes": 59,
+    "cod_servicio": 21
+  },
+  {
+    "cod_refes": 59,
+    "cod_servicio": 13
+  },
+  {
+    "cod_refes": 59,
+    "cod_servicio": 3
+  },
+  {
+    "cod_refes": 60,
+    "cod_servicio": 21
+  },
+  {
+    "cod_refes": 60,
+    "cod_servicio": 10
+  },
+  {
+    "cod_refes": 60,
+    "cod_servicio": 26
+  },
+  {
+    "cod_refes": 60,
+    "cod_servicio": 2
+  },
+  {
+    "cod_refes": 60,
+    "cod_servicio": 36
+  },
+  {
+    "cod_refes": 61,
+    "cod_servicio": 16
+  },
+  {
+    "cod_refes": 61,
+    "cod_servicio": 19
+  },
+  {
+    "cod_refes": 61,
+    "cod_servicio": 14
+  },
+  {
+    "cod_refes": 62,
+    "cod_servicio": 6
+  },
+  {
+    "cod_refes": 62,
+    "cod_servicio": 29
+  },
+  {
+    "cod_refes": 63,
+    "cod_servicio": 11
+  },
+  {
+    "cod_refes": 63,
+    "cod_servicio": 1
+  },
+  {
+    "cod_refes": 63,
+    "cod_servicio": 33
+  },
+  {
+    "cod_refes": 63,
+    "cod_servicio": 34
+  },
+  {
+    "cod_refes": 64,
+    "cod_servicio": 27
+  },
+  {
+    "cod_refes": 65,
+    "cod_servicio": 25
+  },
+  {
+    "cod_refes": 65,
+    "cod_servicio": 35
+  },
+  {
+    "cod_refes": 65,
+    "cod_servicio": 5
+  },
+  {
+    "cod_refes": 65,
+    "cod_servicio": 37
+  },
+  {
+    "cod_refes": 65,
+    "cod_servicio": 16
+  }
+]

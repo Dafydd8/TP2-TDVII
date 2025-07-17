@@ -1,0 +1,102 @@
+[
+  {
+    "id_documento": 1,
+    "nombre": "Hemograma completo",
+    "tipo": "Estudio de Laboratorio"
+  },
+  {
+    "id_documento": 2,
+    "nombre": "Análisis de orina",
+    "tipo": "Estudio de Laboratorio"
+  },
+  {
+    "id_documento": 3,
+    "nombre": "Glucemia en ayunas",
+    "tipo": "Estudio de Laboratorio"
+  },
+  {
+    "id_documento": 4,
+    "nombre": "Perfil lipídico",
+    "tipo": "Estudio de Laboratorio"
+  },
+  {
+    "id_documento": 5,
+    "nombre": "Examen de HIV",
+    "tipo": "Estudio de Laboratorio"
+  },
+  {
+    "id_documento": 6,
+    "nombre": "Creatinina sérica",
+    "tipo": "Estudio de Laboratorio"
+  },
+  {
+    "id_documento": 7,
+    "nombre": "PCR",
+    "tipo": "Estudio de Laboratorio"
+  },
+  {
+    "id_documento": 8,
+    "nombre": "Serología para Chagas",
+    "tipo": "Estudio de Laboratorio"
+  },
+  {
+    "id_documento": 9,
+    "nombre": "Función hepática",
+    "tipo": "Estudio de Laboratorio"
+  },
+  {
+    "id_documento": 10,
+    "nombre": "Urocultivo",
+    "tipo": "Estudio de Laboratorio"
+  },
+  {
+    "id_documento": 11,
+    "nombre": "Electrocardiograma",
+    "tipo": "Práctica Médica"
+  },
+  {
+    "id_documento": 12,
+    "nombre": "Radiografía de tórax",
+    "tipo": "Práctica Médica"
+  },
+  {
+    "id_documento": 13,
+    "nombre": "Ecografía abdominal",
+    "tipo": "Práctica Médica"
+  },
+  {
+    "id_documento": 14,
+    "nombre": "Colonoscopía",
+    "tipo": "Práctica Médica"
+  },
+  {
+    "id_documento": 15,
+    "nombre": "Resonancia magnética cerebral",
+    "tipo": "Práctica Médica"
+  },
+  {
+    "id_documento": 16,
+    "nombre": "Tomografía de tórax",
+    "tipo": "Práctica Médica"
+  },
+  {
+    "id_documento": 17,
+    "nombre": "Biopsia de piel",
+    "tipo": "Práctica Médica"
+  },
+  {
+    "id_documento": 18,
+    "nombre": "Mamografía",
+    "tipo": "Práctica Médica"
+  },
+  {
+    "id_documento": 19,
+    "nombre": "Endoscopía digestiva alta",
+    "tipo": "Práctica Médica"
+  },
+  {
+    "id_documento": 20,
+    "nombre": "Espirometría",
+    "tipo": "Práctica Médica"
+  }
+]

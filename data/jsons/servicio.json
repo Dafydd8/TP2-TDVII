@@ -1,0 +1,150 @@
+[
+  {
+    "cod_servicio": 1,
+    "nombre": "Atención Ambulatoria"
+  },
+  {
+    "cod_servicio": 2,
+    "nombre": "Internación General"
+  },
+  {
+    "cod_servicio": 3,
+    "nombre": "Cirugía General"
+  },
+  {
+    "cod_servicio": 4,
+    "nombre": "Cirugía Cardiovascular"
+  },
+  {
+    "cod_servicio": 5,
+    "nombre": "Unidad de Terapia Intensiva"
+  },
+  {
+    "cod_servicio": 6,
+    "nombre": "Pediatría"
+  },
+  {
+    "cod_servicio": 7,
+    "nombre": "Ginecología y Obstetricia"
+  },
+  {
+    "cod_servicio": 8,
+    "nombre": "Laboratorio Clínico"
+  },
+  {
+    "cod_servicio": 9,
+    "nombre": "Radiología"
+  },
+  {
+    "cod_servicio": 10,
+    "nombre": "Tomografía Computada"
+  },
+  {
+    "cod_servicio": 11,
+    "nombre": "Resonancia Magnética"
+  },
+  {
+    "cod_servicio": 12,
+    "nombre": "Ecografía"
+  },
+  {
+    "cod_servicio": 13,
+    "nombre": "Banco de Sangre"
+  },
+  {
+    "cod_servicio": 14,
+    "nombre": "Emergencias"
+  },
+  {
+    "cod_servicio": 15,
+    "nombre": "Oncología"
+  },
+  {
+    "cod_servicio": 16,
+    "nombre": "Diálisis"
+  },
+  {
+    "cod_servicio": 17,
+    "nombre": "Farmacia Hospitalaria"
+  },
+  {
+    "cod_servicio": 18,
+    "nombre": "Rehabilitación"
+  },
+  {
+    "cod_servicio": 19,
+    "nombre": "Kinesiología"
+  },
+  {
+    "cod_servicio": 20,
+    "nombre": "Odontología"
+  },
+  {
+    "cod_servicio": 21,
+    "nombre": "Oftalmología"
+  },
+  {
+    "cod_servicio": 22,
+    "nombre": "Hemoterapia"
+  },
+  {
+    "cod_servicio": 23,
+    "nombre": "Endoscopía"
+  },
+  {
+    "cod_servicio": 24,
+    "nombre": "Nutrición Clínica"
+  },
+  {
+    "cod_servicio": 25,
+    "nombre": "Vacunatorio"
+  },
+  {
+    "cod_servicio": 26,
+    "nombre": "Salud Mental"
+  },
+  {
+    "cod_servicio": 27,
+    "nombre": "Psicología"
+  },
+  {
+    "cod_servicio": 28,
+    "nombre": "Neurología"
+  },
+  {
+    "cod_servicio": 29,
+    "nombre": "Dermatología"
+  },
+  {
+    "cod_servicio": 30,
+    "nombre": "Cardiología"
+  },
+  {
+    "cod_servicio": 31,
+    "nombre": "Neonatología"
+  },
+  {
+    "cod_servicio": 32,
+    "nombre": "Infectología"
+  },
+  {
+    "cod_servicio": 33,
+    "nombre": "Telemedicina"
+  },
+  {
+    "cod_servicio": 34,
+    "nombre": "Rondas Sanitarias"
+  },
+  {
+    "cod_servicio": 35,
+    "nombre": "Atención Domiciliaria"
+  },
+  {
+    "cod_servicio": 36,
+    "nombre": "Fisiatría"
+  },
+  {
+    "cod_servicio": 37,
+    "nombre": "Traumatología"
+  }
+]

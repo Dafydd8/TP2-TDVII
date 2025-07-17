@@ -1,0 +1,30 @@
+[
+  {
+    "id_forma_envio": 1,
+    "nombre": "Email"
+  },
+  {
+    "id_forma_envio": 2,
+    "nombre": "WhatsApp"
+  },
+  {
+    "id_forma_envio": 3,
+    "nombre": "Portal del Paciente"
+  },
+  {
+    "id_forma_envio": 4,
+    "nombre": "Entrega en DVD"
+  },
+  {
+    "id_forma_envio": 5,
+    "nombre": "Impresión en papel"
+  },
+  {
+    "id_forma_envio": 6,
+    "nombre": "SMS"
+  },
+  {
+    "id_forma_envio": 7,
+    "nombre": "App Móvil del Hospital"
+  }
+]

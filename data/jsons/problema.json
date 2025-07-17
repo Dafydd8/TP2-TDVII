@@ -1,0 +1,116 @@
+[
+  {
+    "cod_problema": 1,
+    "cod_refes": 11,
+    "tipo": "Infraestructura",
+    "descripcion": "Techo con filtraciones en sala de espera"
+  },
+  {
+    "cod_problema": 2,
+    "cod_refes": 21,
+    "tipo": "Infraestructura",
+    "descripcion": "Baños en mal estado y sin agua caliente"
+  },
+  {
+    "cod_problema": 3,
+    "cod_refes": 3,
+    "tipo": "Conectividad",
+    "descripcion": "Internet inestable en consultorios"
+  },
+  {
+    "cod_problema": 4,
+    "cod_refes": 14,
+    "tipo": "FaltaDispositivos",
+    "descripcion": "Falta de termómetros digitales y oxímetros"
+  },
+  {
+    "cod_problema": 5,
+    "cod_refes": 9,
+    "tipo": "Conectividad",
+    "descripcion": "No hay señal Wi-Fi en el sector de emergencias"
+  },
+  {
+    "cod_problema": 6,
+    "cod_refes": 6,
+    "tipo": "Infraestructura",
+    "descripcion": "Paredes con humedad y pintura descascarada"
+  },
+  {
+    "cod_problema": 7,
+    "cod_refes": 17,
+    "tipo": "FaltaDispositivos",
+    "descripcion": "Sin computadoras suficientes para personal médico"
+  },
+  {
+    "cod_problema": 8,
+    "cod_refes": 22,
+    "tipo": "Conectividad",
+    "descripcion": "Servidor local caído con frecuencia"
+  },
+  {
+    "cod_problema": 9,
+    "cod_refes": 9,
+    "tipo": "Infraestructura",
+    "descripcion": "Ventanas rotas en sala de espera"
+  },
+  {
+    "cod_problema": 10,
+    "cod_refes": 10,
+    "tipo": "FaltaDispositivos",
+    "descripcion": "Falta de insumos médicos básicos"
+  },
+  {
+    "cod_problema": 11,
+    "cod_refes": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Fallas eléctricas en quirófano"
+  },
+  {
+    "cod_problema": 12,
+    "cod_refes": 12,
+    "tipo": "Conectividad",
+    "descripcion": "Sin acceso a historia clínica digital por caídas de red"
+  },
+  {
+    "cod_problema": 13,
+    "cod_refes": 13,
+    "tipo": "FaltaDispositivos",
+    "descripcion": "Solo una impresora compartida entre cinco consultorios"
+  },
+  {
+    "cod_problema": 14,
+    "cod_refes": 5,
+    "tipo": "Infraestructura",
+    "descripcion": "Ascensor fuera de servicio"
+  },
+  {
+    "cod_problema": 15,
+    "cod_refes": 16,
+    "tipo": "Conectividad",
+    "descripcion": "Problemas con la conectividad de los monitores de signos vitales"
+  },
+  {
+    "cod_problema": 16,
+    "cod_refes": 1,
+    "tipo": "Conectividad",
+    "descripcion": "Problemas con la conectividad de los monitores de signos vitales"
+  },
+  {
+    "cod_problema": 17,
+    "cod_refes": 21,
+    "tipo": "FaltaDispositivos",
+    "descripcion": "Solo una impresora compartida entre dos consultorios"
+  },
+  {
+    "cod_problema": 18,
+    "cod_refes": 13,
+    "tipo": "Infraestructura",
+    "descripcion": "Baños pierden agua"
+  },
+  {
+    "cod_problema": 19,
+    "cod_refes": 13,
+    "tipo": "Conectividad",
+    "descripcion": "No funciona sistema de pagos"
+  }
+]
